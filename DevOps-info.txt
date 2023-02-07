@@ -1,0 +1,21 @@
+My learning goals
+- Create a code project in GitHub that will be auto deployed via CI/CD
+- Create local dev env in Linux to make code changes
+- Run Jenkins on Linux for continuous integration
+- Need to decide what to include in testing phase for things such as unit tests and code linting
+- Project deployment will be on Linux but to decide what that will involve, for example Docker
+
+DevOps feedback I received (context was what's needed to be a DevOps engineer and best tools to learn)
+- To start with need to know shell commands, git commands, Docker
+- Tools to learn: Jenkins, Rancher, harness, spinnaker, prometheus, grafana, ELK stack. Having basic knowledge in python helps a lot
+- Chef and Puppet are older tools but still in wide use
+- Travis CI and CircleCI are some others used for CI/CD automation
+- Infrastructure as Code is becoming more important. Terraform is leading along with Azure templates and cloud formation templates (AWS). Along with it is Helm Charts as an add-on.
+
+Some YouTube videos I've found useful
+- https://www.youtube.com/watch?v=DLIF9Gnyum4&t
+-- basic info; good graphic with the various tools at 6:20
+- https://www.youtube.com/watch?v=Wvf0mBNGjXY
+-- this was useful for getting VirtualBox and Linux setup
+- https://www.youtube.com/watch?v=hQcFE0RD0cQ&t
+-- still going through this one but covers a variety of DevOps aspects
